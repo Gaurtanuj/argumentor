@@ -1,0 +1,21 @@
+text,fallacy,score
+"Mandatory attendance should be reviewed because research suggests engagement matters more than physical presence in class.",No Fallacy,74
+"Free public Wi-Fi in campuses helps students from low-income families access study material, which supports equal opportunity.",No Fallacy,79
+"Group projects improve teamwork skills because students must divide tasks, communicate, and resolve conflicts, as employers often confirm.",No Fallacy,77
+"Mobile payments should be promoted since transaction records reduce cash handling errors and make small businesses easier to audit.",No Fallacy,81
+"His report on water pollution is useless because he is just a lazy intern who copies everything.",Ad Hominem,21
+"We should reject her design idea since she failed her last project and nobody respects her.",Ad Hominem,19
+"The coach's training plan is wrong because he is old and out of touch.",Ad Hominem,24
+"They want to reduce class timings so they probably want students to stop studying altogether.",Straw Man,29
+"He asked for stronger password rules which means he wants to lock everyone out of their own accounts.",Straw Man,27
+"If you suggest fewer exams you are saying education does not need any assessment at all.",Straw Man,31
+"If we allow phones in the library once then soon nobody will study and the library will become a playground.",Slippery Slope,30
+"Giving one extra holiday will lead to endless holidays and the academic year will never finish.",Slippery Slope,26
+"If the hostel extends curfew by ten minutes then discipline will disappear and chaos will follow.",Slippery Slope,32
+"Either you join the coding club or you do not care about your career.",False Dilemma,28
+"We either punish every late student severely or accept that rules mean nothing.",False Dilemma,30
+"Either the university gives free laptops to everyone or it does not value education.",False Dilemma,27
+"I got one wrong answer from a chatbot so all AI tools are useless.",Hasty Generalization,33
+"Two students from that city were late today so people from that city are always unpunctual.",Hasty Generalization,26
+"My phone battery died fast so every phone from that brand has poor batteries.",Hasty Generalization,31
+"One festival sale had a bad deal so all online discounts are scams.",Hasty Generalization,29

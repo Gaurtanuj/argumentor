@@ -1,0 +1,61 @@
+text,fallacy,score
+"School uniforms should be mandatory because studies show they reduce bullying and improve attendance, which benefits both students and teachers.",No Fallacy,85
+"Cities should expand cycling lanes since data from several European cities shows fewer traffic accidents and lower pollution after such expansion.",No Fallacy,88
+"Remote work can increase productivity because employees save commuting time and report fewer interruptions, according to multiple company surveys.",No Fallacy,82
+"Public libraries deserve continued funding because they provide free access to information, which supports education and reduces inequality.",No Fallacy,80
+"Regular exercise should be encouraged in schools because evidence links physical activity to better concentration and improved mental health.",No Fallacy,86
+"Renewable energy investment is justified since the cost of solar power has dropped sharply while it reduces long-term dependence on imported fuel.",No Fallacy,84
+"Students should learn basic financial literacy because it helps them avoid debt and make informed decisions as adults.",No Fallacy,78
+"Although online exams are convenient, universities should add proctoring since without it the evidence shows cheating rates rise noticeably.",No Fallacy,75
+"A sugar tax can reduce consumption because price increases influence buying behaviour, as seen in several countries that adopted it.",No Fallacy,83
+"Vaccination programs should continue because clinical trials and population data show they lower hospitalisation and prevent outbreaks.",No Fallacy,90
+"You cannot trust his argument on climate policy because he is a failed businessman who has never held a real job.",Ad Hominem,22
+"Her proposal for the new curriculum is worthless since she dropped out of college and dresses carelessly.",Ad Hominem,18
+"Do not listen to the senator's views on taxes because he was caught lying about his holiday expenses last year.",Ad Hominem,28
+"Of course he supports online learning, he is too lazy to teach in a classroom so his opinion does not count.",Ad Hominem,20
+"Why should we accept the professor's research when everyone knows she is arrogant and has no friends?",Ad Hominem,25
+"His argument for reducing homework is invalid because he is a terrible student who never completes assignments.",Ad Hominem,24
+"You are too young and inexperienced to have any valid opinion about economic reform.",Ad Hominem,30
+"That author's case for stricter privacy laws is nonsense since he is a known troublemaker with a bad reputation.",Ad Hominem,27
+"Anyone who supports nuclear energy is clearly an idiot so we can ignore every point they make.",Ad Hominem,15
+"The mayor's transport plan cannot be good because he is the same man who could not even manage his own family business.",Ad Hominem,26
+"He wants stricter rules on phone use in class which means he wants to ban all technology and send us back to the stone age.",Straw Man,30
+"She suggested spending more on public transport so she obviously wants to abolish cars and force everyone to walk.",Straw Man,28
+"My opponent says we should regulate social media which is just a plan to silence everyone and end free speech.",Straw Man,25
+"When the teacher proposed shorter exams she was basically saying students should not have to learn anything.",Straw Man,32
+"They asked for a review of the budget so they clearly want to cut every program and leave the city with nothing.",Straw Man,27
+"Supporters of recycling laws want to control what every family does inside their own kitchens.",Straw Man,35
+"He said we should reduce meat consumption so he must believe that everybody should be forced to eat only lettuce.",Straw Man,29
+"The committee wants flexible deadlines which means they think nobody should ever be held accountable for work.",Straw Man,33
+"If you favour gun safety checks you are saying that all law-abiding citizens are criminals.",Straw Man,26
+"She argued for more art classes which means she thinks maths and science are a waste of time.",Straw Man,31
+"If we allow students to use calculators in this exam then soon they will not learn any arithmetic and the whole education system will collapse.",Slippery Slope,30
+"Once the government bans one type of food advertising it will ban all advertising and eventually control everything we eat.",Slippery Slope,34
+"If we give extra time to one student every student will demand it and exams will lose all meaning.",Slippery Slope,38
+"Allowing a single day of remote work will inevitably lead to nobody ever coming to the office again and the company going bankrupt.",Slippery Slope,28
+"If we legalise this small change in the rules then lawlessness will spread and society will fall apart.",Slippery Slope,25
+"Letting children use tablets for one hour will turn them into screen addicts who can never hold a job.",Slippery Slope,27
+"If the college relaxes the dress code today then tomorrow there will be no discipline at all and the institution will lose its reputation.",Slippery Slope,33
+"Once we accept one online course for credit all degrees will become worthless and universities will shut down.",Slippery Slope,29
+"If we raise the minimum wage even a little then every business will close and the economy will crash.",Slippery Slope,31
+"Giving students a grace period is the first step toward them never submitting anything on time ever again.",Slippery Slope,36
+"Either we ban all cars from the city centre or we accept that our air will stay poisoned forever.",False Dilemma,32
+"You are either with us on this policy or you are against the progress of this country.",False Dilemma,26
+"We must either cut the education budget completely or watch the nation go bankrupt.",False Dilemma,30
+"Either students study all night before exams or they are destined to fail.",False Dilemma,28
+"You can either support strict internet censorship or you do not care about the safety of children.",False Dilemma,29
+"Either we build the new highway or the town will have no future at all.",False Dilemma,34
+"People are either completely honest or total liars and he lied once so there is no point believing him.",False Dilemma,27
+"Either the company adopts this software today or it admits it has no interest in innovation.",False Dilemma,31
+"Either we trust the government on everything or we are supporting chaos.",False Dilemma,25
+"A student either gets full marks or is a failure so there is nothing in between.",False Dilemma,33
+"My two cousins who studied abroad both came back unemployed so studying abroad is clearly a waste of money.",Hasty Generalization,35
+"I met one rude delivery driver today which proves that all delivery drivers are disrespectful.",Hasty Generalization,24
+"Two of my friends failed after using that app so the app does not work for anybody.",Hasty Generalization,36
+"The first online class I took was boring so all online education must be boring.",Hasty Generalization,33
+"I saw one teenager littering which shows that the whole young generation does not care about the environment.",Hasty Generalization,28
+"That restaurant gave me bad service once so everything in this city is overpriced and badly run.",Hasty Generalization,30
+"My neighbour felt unwell after taking the vaccine so vaccines are dangerous for everyone.",Hasty Generalization,22
+"A single startup in our town failed last year so starting a business here never succeeds.",Hasty Generalization,34
+"Three of the students in my hostel were caught cheating so students from this college are dishonest.",Hasty Generalization,29
+"I tried one electric scooter and it broke so electric vehicles are unreliable.",Hasty Generalization,31
